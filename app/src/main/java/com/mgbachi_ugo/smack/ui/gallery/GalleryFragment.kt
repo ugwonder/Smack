@@ -10,6 +10,7 @@ import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
 import com.mgbachi_ugo.smack.R
 
+
 class GalleryFragment : Fragment() {
 
     private lateinit var galleryViewModel: GalleryViewModel
